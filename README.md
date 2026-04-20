@@ -399,8 +399,6 @@ Category 5: Environmental / Abiotic Stress (Extended)
 ---
 
 ## 🌱 Future Work
-- Integration with autonomous spraying systems  
-- Fusion with hyperspectral + LiDAR data  
 - Real-time drone deployment  
 - Explainable AI for farmer trust  
 

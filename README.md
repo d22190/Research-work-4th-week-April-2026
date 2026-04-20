@@ -107,7 +107,6 @@ Category 1: Plant diseases
 | 28 | Rye | Ergot | Toxic fungal bodies | Remove heads |
 | 29 | Cabbage | Clubroot | Swollen roots | Lime soil |
 | 30 | Apple | Scab | Rough lesions | Fungicide |
-
 | 31 | Rice | Blast Disease | Diamond lesions | Fungicide |
 | 32 | Rice | Sheath Blight | Lesions on sheath | Fungicide |
 | 33 | Wheat | Leaf Blight | Brown streaks | Fungicide |
@@ -156,7 +155,6 @@ Category 2: Nutrient Deficiencies
 | 68 | Paddy | Iron Toxicity | Leaf bronzing | Drainage |
 | 69 | Coastal | Salinity Stress | Leaf burn | Leaching |
 | 70 | General | pH Imbalance | Nutrient lockout | Adjust pH |
-
 | 71 | Maize | Nitrogen Deficiency | V-shaped yellowing | Apply N |
 | 72 | Tomato | Magnesium Deficiency | Interveinal chlorosis | Mg spray |
 | 73 | Citrus | Iron Deficiency | Yellow leaves | Iron chelate |
@@ -173,7 +171,6 @@ Category 3 : Infestations
 | 78 | General | Spider Mites | Webbing | Miticide |
 | 79 | General | Thrips | Silver streaks | Insecticide |
 | 80 | General | Leaf Miners | Leaf tunnels | Remove leaves |
-
 | 81 | Cotton | Bollworm | Fruit damage | Traps |
 | 82 | Rice | Stem Borer | Dead heart | Resistant varieties |
 | 83 | Maize | Fall Armyworm | Leaf damage | Insecticide |
@@ -185,7 +182,6 @@ Category 3 : Infestations
 | 88 | Rice | Brown Planthopper | Hopper burn | Resistant varieties |
 | 89 | Rice | Green Leafhopper | Virus transmission | Control insects |
 | 90 | Banana | Weevil | Root damage | Soil insecticide |
-
 | 91 | Mango | Fruit Fly | Fruit rot | Traps |
 | 92 | Citrus | Psyllid | Leaf curling | Control vector |
 | 93 | Grapes | Mealybug | White clusters | Neem oil |
@@ -201,13 +197,11 @@ Category 4: Environmental / Abiotic Stress (Common)
 | 98 | General | Heat Stress | Leaf scorch | Shade |
 | 99 | General | Cold Stress | Slow growth | Covers |
 | 100 | General | Frost Damage | Burnt leaves | Protection |
-
 | 101 | General | Sunburn | Bleached spots | Shade |
 | 102 | General | Wind Damage | Torn leaves | Support |
 | 103 | General | Hail Damage | Physical injury | Remove damage |
 | 104 | General | UV Stress | Burn spots | Nets |
 | 105 | General | Transplant Shock | Wilting | Proper care |
-
 | 106 | Rice | Flood Stress | Submerged plants | Drain water |
 | 107 | Wheat | Heat Stress | Grain shrivel | Irrigation |
 | 108 | Tomato | Salt Stress | Leaf burn | Leach salts |
@@ -228,7 +222,6 @@ Category 5: Environmental / Abiotic Stress (Extended)
 | 118 | Tomato | Heat Stress | Blossom drop | Shade nets |
 | 119 | Potato | Heat Stress | Reduced tuberization | Mulching |
 | 120 | Potato | Waterlogging | Rotting tubers | Drainage |
-
 | 121 | Cotton | Drought Stress | Boll shedding | Irrigation |
 | 122 | Cotton | Heat Stress | Poor fiber quality | Irrigation |
 | 123 | Sugarcane | Water Stress | Reduced cane growth | Irrigation |
@@ -239,7 +232,6 @@ Category 5: Environmental / Abiotic Stress (Extended)
 | 128 | Mango | Frost Damage | Flower damage | Smoke/frost cover |
 | 129 | Citrus | Salinity Stress | Leaf burn | Leaching salts |
 | 130 | Citrus | Drought Stress | Fruit drop | Irrigation |
-
 | 131 | Soybean | Waterlogging | Root rot | Drainage |
 | 132 | Soybean | Heat Stress | Flower drop | Irrigation |
 | 133 | Groundnut | Drought Stress | Poor pod formation | Irrigation |
@@ -250,7 +242,6 @@ Category 5: Environmental / Abiotic Stress (Extended)
 | 138 | Apple | Sunburn | Fruit spots | Shade nets |
 | 139 | Rice | Salinity Stress | Poor growth | Salt-tolerant varieties |
 | 140 | Wheat | Salinity Stress | Leaf burn | Soil amendment |
-
 | 141 | Maize | Waterlogging | Yellow leaves | Drainage |
 | 142 | Tomato | Cold Stress | Stunted growth | Protective covers |
 | 143 | Potato | Drought Stress | Small tubers | Irrigation |
@@ -261,7 +252,6 @@ Category 5: Environmental / Abiotic Stress (Extended)
 | 148 | Citrus | Heat Stress | Leaf scorch | Shade |
 | 149 | Soybean | Drought Stress | Wilting | Irrigation |
 | 150 | Groundnut | Waterlogging | Root rot | Drainage |
-
 | 151 | Grapes | Heat Stress | Berry shrivel | Irrigation |
 | 152 | Apple | Heat Stress | Fruit sunburn | Shade |
 | 153 | Rice | Nutrient Stress | Poor growth | Balanced fertilizer |
@@ -272,7 +262,6 @@ Category 5: Environmental / Abiotic Stress (Extended)
 | 158 | Cotton | Waterlogging | Root rot | Drainage |
 | 159 | Sugarcane | Drought Stress | Reduced yield | Irrigation |
 | 160 | Banana | Heat Stress | Leaf scorch | Irrigation |
-
 | 161 | Mango | Water Stress | Fruit drop | Irrigation |
 | 162 | Citrus | Waterlogging | Root decay | Drainage |
 | 163 | Soybean | Salinity Stress | Leaf burn | Soil amendment |
@@ -283,7 +272,6 @@ Category 5: Environmental / Abiotic Stress (Extended)
 | 168 | Wheat | Water Stress | Poor grain filling | Irrigation |
 | 169 | Maize | Cold Stress | Poor emergence | Seed treatment |
 | 170 | Tomato | Salinity Stress | Leaf burn | Leaching |
-
 | 171 | Potato | Heat Stress | Reduced tuber size | Mulching |
 | 172 | Cotton | Cold Stress | Growth reduction | Protection |
 | 173 | Sugarcane | Frost Damage | Cane injury | Protective measures |
@@ -294,7 +282,6 @@ Category 5: Environmental / Abiotic Stress (Extended)
 | 178 | Groundnut | Salinity Stress | Poor growth | Soil flushing |
 | 179 | Grapes | Wind Damage | Vine breakage | Support |
 | 180 | Apple | Cold Stress | Delayed growth | Protection |
-
 | 181 | Rice | Drought Stress | Leaf rolling | Irrigation |
 | 182 | Wheat | Heat Stress | Reduced yield | Irrigation |
 | 183 | Maize | Heat Stress | Pollination failure | Irrigation |
@@ -305,7 +292,6 @@ Category 5: Environmental / Abiotic Stress (Extended)
 | 188 | Banana | Heat Stress | Leaf burn | Shade |
 | 189 | Mango | Cold Stress | Flower drop | Protection |
 | 190 | Citrus | Heat Stress | Leaf scorch | Irrigation |
-
 | 191 | Soybean | Heat Stress | Flower drop | Irrigation |
 | 192 | Groundnut | Drought Stress | Poor pod fill | Irrigation |
 | 193 | Grapes | Heat Stress | Berry shrink | Irrigation |

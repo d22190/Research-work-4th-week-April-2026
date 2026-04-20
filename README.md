@@ -117,7 +117,6 @@ Category 1: Plant diseases
 | 38 | Potato | Common Scab | Rough tubers | Soil pH control |
 | 39 | Onion | Purple Blotch | Purple lesions | Fungicide |
 | 40 | Rice | Brown Spot | Brown lesions | Nutrient management |
-
 | 41 | Soybean | Rust | Brown pustules | Fungicide |
 | 42 | Groundnut | Tikka Disease | Leaf spots | Fungicide |
 | 43 | Tomato | Bacterial Speck | Small black spots | Copper spray |
@@ -144,7 +143,6 @@ Category 2: Nutrient Deficiencies
 | 58 | Rice | Zinc Deficiency | Khaira disease | Zinc sulfate |
 | 59 | General | Manganese Deficiency | Speckled leaves | Mn spray |
 | 60 | General | Boron Deficiency | Dead tips | Boron |
-
 | 61 | Wheat | Copper Deficiency | Leaf curl | Copper |
 | 62 | Legumes | Molybdenum Deficiency | Nitrogen issues | Mo fertilizer |
 | 63 | Rice | Silicon Deficiency | Weak stems | Silicon |
@@ -176,7 +174,6 @@ Category 3 : Infestations
 | 83 | Maize | Fall Armyworm | Leaf damage | Insecticide |
 | 84 | Sugarcane | Top Borer | Dead tops | Biological control |
 | 85 | Wheat | Aphid Complex | Sap sucking | Spray insecticide |
-
 | 86 | Tomato | Fruit Borer | Fruit holes | Pheromone traps |
 | 87 | Potato | Tuber Moth | Tuber damage | Storage control |
 | 88 | Rice | Brown Planthopper | Hopper burn | Resistant varieties |
